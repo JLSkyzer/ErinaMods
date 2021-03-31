@@ -1,0 +1,13 @@
+{
+  "parent": "erinafaction:custom/table_magie",
+  "textures": {
+    "all": "erinafaction:blocks/enchanting_table_bottom",
+    "particle": "erinafaction:blocks/enchanting_table_bottom",
+    "2": "erinafaction:blocks/enchanting_table_bottom",
+    "3": "erinafaction:blocks/bg",
+    "4": "erinafaction:blocks/sans_titre",
+    "5": "erinafaction:blocks/oak_planks",
+    "6": "erinafaction:blocks/blackstone_top",
+    "missing": "erinafaction:blocks/"
+  }
+}

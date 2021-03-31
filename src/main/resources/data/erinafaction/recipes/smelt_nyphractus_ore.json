@@ -1,0 +1,12 @@
+{
+  "group": "erinafaction",
+  "type": "minecraft:smelting",
+  "experience": 3,
+  "cookingtime": 260,
+  "ingredient": {
+    "item": "erinafaction:niphractus_ore"
+  },
+  "result": {
+    "item": "erinafaction:nyphractus_ingot"
+  }
+}

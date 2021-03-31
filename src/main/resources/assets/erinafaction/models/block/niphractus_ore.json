@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "erinafaction:blocks/nyphractus_ore",
+    "up": "erinafaction:blocks/nyphractus_ore",
+    "north": "erinafaction:blocks/nyphractus_ore",
+    "east": "erinafaction:blocks/nyphractus_ore",
+    "south": "erinafaction:blocks/nyphractus_ore",
+    "west": "erinafaction:blocks/nyphractus_ore",
+    "particle": "erinafaction:blocks/nyphractus_ore"
+  }
+}

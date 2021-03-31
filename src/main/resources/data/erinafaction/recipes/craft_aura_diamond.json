@@ -1,0 +1,42 @@
+{
+  "group": "erinafaction",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "erinafaction:aura_shard"
+    },
+    "1": {
+      "item": "erinafaction:aura_shard"
+    },
+    "2": {
+      "item": "erinafaction:aura_shard"
+    },
+    "3": {
+      "item": "erinafaction:aura_shard"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "erinafaction:aura_shard"
+    },
+    "6": {
+      "item": "erinafaction:aura_shard"
+    },
+    "7": {
+      "item": "erinafaction:aura_shard"
+    },
+    "8": {
+      "item": "erinafaction:aura_shard"
+    }
+  },
+  "result": {
+    "item": "erinafaction:aura_diamond",
+    "count": 1
+  }
+}

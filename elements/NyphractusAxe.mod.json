@@ -1,0 +1,31 @@
+{
+  "_fv": 17,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "nyphractus_axe",
+    "customModelName": "Normal",
+    "name": "Nyphractus Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NyphractusTab"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 12.0,
+    "attackSpeed": 100.0,
+    "enchantability": 15,
+    "damageVsEntity": 7.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:NyphractusIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 17,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "nyphractus_sword",
+    "customModelName": "Normal",
+    "name": "Nyphractus Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:NyphractusTab"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 4.0,
+    "attackSpeed": 100.0,
+    "enchantability": 2,
+    "damageVsEntity": 9.0,
+    "usageCount": 850,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

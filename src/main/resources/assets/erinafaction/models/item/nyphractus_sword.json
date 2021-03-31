@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "erinafaction:items/nyphractus_sword"
+  }
+}

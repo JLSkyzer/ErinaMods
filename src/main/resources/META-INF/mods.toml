@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="erinafaction"
+version="Béta 1.0"
+displayName="ErinaFaction"
+credits="Crée pour le serveur, Erina Faction"
+displayURL="https://discord.gg/BJjJYuCHVr"
+authors="JLStrykerz_2_0"
+
+[[dependencies.erinafaction]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

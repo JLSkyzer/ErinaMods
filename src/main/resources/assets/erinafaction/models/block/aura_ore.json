@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "erinafaction:blocks/aura_ore",
+    "up": "erinafaction:blocks/aura_ore",
+    "north": "erinafaction:blocks/aura_ore",
+    "east": "erinafaction:blocks/aura_ore",
+    "south": "erinafaction:blocks/aura_ore",
+    "west": "erinafaction:blocks/aura_ore",
+    "particle": "erinafaction:blocks/aura_ore"
+  }
+}

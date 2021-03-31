@@ -1,0 +1,304 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "NiphractusOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "niphractus_ore",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "NyphractusTab",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nyphractus_tab",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "NyphractusIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nyphractus_ingot",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "SmeltNyphractusOre",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelt_nyphractus_ore",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "NyphractusSword",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nyphractus_sword",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "CraftNyphractusSword",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_nyphractus_sword",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "NyphractusPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nyphractus_pickaxe",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "CraftNyphractusPickaxe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_nyphractus_pickaxe",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "AuraOre",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aura_ore",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "AuraShard",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aura_shard",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "AuraDiamond",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aura_diamond",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "CraftAuraDiamond",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_aura_diamond",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "MagicTable",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magic_table",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "GuiMagicTable",
+      "type": "gui",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_magic_table",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "UpgradeLvl",
+      "type": "procedure",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "upgrade_lvl",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Lvl System"
+    },
+    {
+      "name": "Lvl",
+      "type": "command",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lvl",
+      "path": "~/Lvl System"
+    },
+    {
+      "name": "LvlProcedure",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lvl_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Lvl System"
+    },
+    {
+      "name": "ErinaLvl",
+      "type": "command",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "erina_lvl",
+      "path": "~/Lvl System"
+    },
+    {
+      "name": "ErinaLvlProcedure",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "erina_lvl_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "cmdparams",
+            "type": "map"
+          }
+        ]
+      },
+      "path": "~/Lvl System"
+    },
+    {
+      "name": "NyphractusAxe",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nyphractus_axe",
+      "path": "~/Nyphractus"
+    },
+    {
+      "name": "CraftNyphractusAxe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_nyphractus_axe",
+      "path": "~/Nyphractus"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "Lvl",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "xp",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.erinafaction.nyphractus_sword": "Nyphractus Sword",
+      "block.erinafaction.magic_table": "Magic Table",
+      "item.erinafaction.aura_diamond": "Aura Diamond",
+      "item.erinafaction.nyphractus_pickaxe": "Nyphractus Pickaxe",
+      "block.erinafaction.niphractus_ore": "Niphractus Ore",
+      "item.erinafaction.nyphractus_ingot": "Nyphractus Ingot",
+      "block.erinafaction.aura_ore": "Aura Ore",
+      "item.erinafaction.nyphractus_axe": "Nyphractus Axe",
+      "itemGroup.tabnyphractus_tab": "ErinaFaction | §5Nyphractus",
+      "item.erinafaction.aura_shard": "Aura Shard"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Nyphractus",
+        "children": []
+      },
+      {
+        "name": "Lvl System",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "erinafaction",
+    "modName": "ErinaFaction",
+    "version": "Béta 1.0",
+    "author": "JLStrykerz_2_0",
+    "websiteURL": "https://discord.gg/BJjJYuCHVr",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Crée pour le serveur, Erina Faction",
+    "modElementsPackage": "fr.strykerz.erinafaction",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100112313
+}

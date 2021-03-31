@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "enchanting_table_bottom",
+        "3": "bg",
+        "4": "sans_titre",
+        "5": "oak_planks",
+        "6": "blackstone_top",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}
