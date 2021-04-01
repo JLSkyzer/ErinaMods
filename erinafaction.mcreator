@@ -238,6 +238,50 @@
       "ids": {},
       "registry_name": "craft_nyphractus_axe",
       "path": "~/Nyphractus"
+    },
+    {
+      "name": "OnSmelt",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "on_smelt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Lvl System"
+    },
+    {
+      "name": "OnCraft",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "on_craft",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Lvl System"
     }
   ],
   "variable_elements": [
@@ -278,6 +322,10 @@
       },
       {
         "name": "Lvl System",
+        "children": []
+      },
+      {
+        "name": "Bloodesium",
         "children": []
       }
     ]
