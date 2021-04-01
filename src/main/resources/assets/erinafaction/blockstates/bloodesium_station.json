@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "erinafaction:block/bloodesium_station"
+    },
+    "facing=east": {
+      "model": "erinafaction:block/bloodesium_station",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "erinafaction:block/bloodesium_station",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "erinafaction:block/bloodesium_station",
+      "y": 270
+    }
+  }
+}

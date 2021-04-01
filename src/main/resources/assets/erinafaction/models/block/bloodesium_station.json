@@ -1,0 +1,10 @@
+{
+  "parent": "erinafaction:custom/bloodesium_station",
+  "textures": {
+    "all": "erinafaction:blocks/bloodesiumstation",
+    "particle": "erinafaction:blocks/bloodesiumstation",
+    "0": "erinafaction:blocks/bloodesiumstation_bottom",
+    "1": "erinafaction:blocks/bloodesiumstation_top",
+    "2": "erinafaction:blocks/bloodesiumstation"
+  }
+}

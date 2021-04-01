@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bloodesiumstation_bottom",
+        "1": "bloodesiumstation_top",
+        "2": "bloodesiumstation"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -46,7 +46,8 @@ public class OnCraftProcedure extends ErinafactionModElements.ModElement {
 						+ (((itemstack).getDisplayName().getString())) + "" + (" \u00A7e)"))), (false));
 			}
 			{
-				double _setval = (double) ((((itemstack)).getCount()) * 200);
+				double _setval = (double) (((entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null)
+						.orElse(new ErinafactionModVariables.PlayerVariables())).xp) + ((((itemstack)).getCount()) * 200));
 				entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 					capability.xp = _setval;
 					capability.syncPlayerVariables(entity);
@@ -59,7 +60,8 @@ public class OnCraftProcedure extends ErinafactionModElements.ModElement {
 						+ (((itemstack).getDisplayName().getString())) + "" + (" \u00A7e)"))), (false));
 			}
 			{
-				double _setval = (double) ((((itemstack)).getCount()) * 120);
+				double _setval = (double) (((entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null)
+						.orElse(new ErinafactionModVariables.PlayerVariables())).xp) + ((((itemstack)).getCount()) * 120));
 				entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 					capability.xp = _setval;
 					capability.syncPlayerVariables(entity);
@@ -72,7 +74,8 @@ public class OnCraftProcedure extends ErinafactionModElements.ModElement {
 						+ (((itemstack).getDisplayName().getString())) + "" + (" \u00A7e)"))), (false));
 			}
 			{
-				double _setval = (double) ((((itemstack)).getCount()) * 180);
+				double _setval = (double) (((entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null)
+						.orElse(new ErinafactionModVariables.PlayerVariables())).xp) + ((((itemstack)).getCount()) * 180));
 				entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 					capability.xp = _setval;
 					capability.syncPlayerVariables(entity);

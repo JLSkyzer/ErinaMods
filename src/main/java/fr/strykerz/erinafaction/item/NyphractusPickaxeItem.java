@@ -27,7 +27,7 @@ public class NyphractusPickaxeItem extends ErinafactionModElements.ModElement {
 			}
 
 			public float getEfficiency() {
-				return 4f;
+				return 12f;
 			}
 
 			public float getAttackDamage() {
@@ -35,7 +35,7 @@ public class NyphractusPickaxeItem extends ErinafactionModElements.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 1;
+				return 5;
 			}
 
 			public int getEnchantability() {

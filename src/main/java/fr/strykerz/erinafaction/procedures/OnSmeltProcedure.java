@@ -49,7 +49,8 @@ public class OnSmeltProcedure extends ErinafactionModElements.ModElement {
 								+ "" + ("\u00A7e) \u00A75X") + "" + ((((itemstack)).getCount())))), (false));
 			}
 			{
-				double _setval = (double) ((((itemstack)).getCount()) * 150);
+				double _setval = (double) (((entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null)
+						.orElse(new ErinafactionModVariables.PlayerVariables())).xp) + ((((itemstack)).getCount()) * 150));
 				entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 					capability.xp = _setval;
 					capability.syncPlayerVariables(entity);
@@ -62,7 +63,8 @@ public class OnSmeltProcedure extends ErinafactionModElements.ModElement {
 						+ "" + ("\u00A7e) \u00A75X") + "" + ((((itemstack)).getCount())))), (false));
 			}
 			{
-				double _setval = (double) ((((itemstack)).getCount()) * 65);
+				double _setval = (double) (((entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null)
+						.orElse(new ErinafactionModVariables.PlayerVariables())).xp) + ((((itemstack)).getCount()) * 65));
 				entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 					capability.xp = _setval;
 					capability.syncPlayerVariables(entity);
@@ -75,7 +77,8 @@ public class OnSmeltProcedure extends ErinafactionModElements.ModElement {
 						+ "" + ("\u00A7e) \u00A75X") + "" + ((((itemstack)).getCount())))), (false));
 			}
 			{
-				double _setval = (double) ((((itemstack)).getCount()) * 45);
+				double _setval = (double) (((entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null)
+						.orElse(new ErinafactionModVariables.PlayerVariables())).xp) + ((((itemstack)).getCount()) * 45));
 				entity.getCapability(ErinafactionModVariables.PLAYER_VARIABLES_CAPABILITY, null).ifPresent(capability -> {
 					capability.xp = _setval;
 					capability.syncPlayerVariables(entity);

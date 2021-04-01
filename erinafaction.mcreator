@@ -282,6 +282,46 @@
         ]
       },
       "path": "~/Lvl System"
+    },
+    {
+      "name": "BloodesiumOre",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_ore",
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "BloodesiumIngot",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_ingot",
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "BloodesiumTab",
+      "type": "tab",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_tab",
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "BloodesiumStation",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_station",
+      "path": "~/Bloodesium/Station"
     }
   ],
   "variable_elements": [
@@ -301,16 +341,20 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.erinafaction.nyphractus_sword": "Nyphractus Sword",
-      "block.erinafaction.magic_table": "Magic Table",
       "item.erinafaction.aura_diamond": "Aura Diamond",
+      "block.erinafaction.bloodesium_ore": "Bloodesium Ore",
       "item.erinafaction.nyphractus_pickaxe": "Nyphractus Pickaxe",
-      "block.erinafaction.niphractus_ore": "Niphractus Ore",
       "item.erinafaction.nyphractus_ingot": "Nyphractus Ingot",
+      "block.erinafaction.niphractus_ore": "Niphractus Ore",
+      "item.erinafaction.aura_shard": "Aura Shard",
+      "item.erinafaction.nyphractus_sword": "Nyphractus Sword",
+      "block.erinafaction.bloodesium_station": "Bloodesium Station",
+      "block.erinafaction.magic_table": "Magic Table",
+      "item.erinafaction.bloodesium_ingot": "Bloodesium Ingot",
       "block.erinafaction.aura_ore": "Aura Ore",
       "item.erinafaction.nyphractus_axe": "Nyphractus Axe",
-      "itemGroup.tabnyphractus_tab": "ErinaFaction | §5Nyphractus",
-      "item.erinafaction.aura_shard": "Aura Shard"
+      "itemGroup.tabbloodesium_tab": "ErinaFaction | §4Bloodesium",
+      "itemGroup.tabnyphractus_tab": "ErinaFaction | §5Nyphractus"
     }
   },
   "foldersRoot": {
@@ -326,7 +370,12 @@
       },
       {
         "name": "Bloodesium",
-        "children": []
+        "children": [
+          {
+            "name": "Station",
+            "children": []
+          }
+        ]
       }
     ]
   },
