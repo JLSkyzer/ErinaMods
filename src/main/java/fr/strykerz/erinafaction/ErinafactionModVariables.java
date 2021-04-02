@@ -69,6 +69,7 @@ public class ErinafactionModVariables {
 			CompoundNBT nbt = new CompoundNBT();
 			nbt.putDouble("Lvl", instance.Lvl);
 			nbt.putDouble("xp", instance.xp);
+			nbt.putDouble("PlayerHealth", instance.PlayerHealth);
 			return nbt;
 		}
 
@@ -77,12 +78,14 @@ public class ErinafactionModVariables {
 			CompoundNBT nbt = (CompoundNBT) inbt;
 			instance.Lvl = nbt.getDouble("Lvl");
 			instance.xp = nbt.getDouble("xp");
+			instance.PlayerHealth = nbt.getDouble("PlayerHealth");
 		}
 	}
 
 	public static class PlayerVariables {
 		public double Lvl = 0;
 		public double xp = 0;
+		public double PlayerHealth = 0;
 		public void syncPlayerVariables(Entity entity) {
 			if (entity instanceof ServerPlayerEntity)
 				ErinafactionMod.PACKET_HANDLER.send(PacketDistributor.PLAYER.with(() -> (ServerPlayerEntity) entity),
@@ -119,6 +122,7 @@ public class ErinafactionModVariables {
 					.orElse(new PlayerVariables()));
 			clone.Lvl = original.Lvl;
 			clone.xp = original.xp;
+			clone.PlayerHealth = original.PlayerHealth;
 		}
 	}
 	public static class PlayerVariablesSyncMessage {
@@ -144,6 +148,7 @@ public class ErinafactionModVariables {
 							.orElse(new PlayerVariables()));
 					variables.Lvl = message.data.Lvl;
 					variables.xp = message.data.xp;
+					variables.PlayerHealth = message.data.PlayerHealth;
 				}
 			});
 			context.setPacketHandled(true);

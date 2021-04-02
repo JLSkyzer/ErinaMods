@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "blood_table_facing",
+        "1": "blood_table_top",
+        "2": "bloodesiumstation_bottom",
+        "5": "alpha",
+        "9": "blanc"
+      },
+      "name": "default"
+    }
+  }
+}

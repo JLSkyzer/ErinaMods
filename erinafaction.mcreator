@@ -322,6 +322,289 @@
       "ids": {},
       "registry_name": "bloodesium_station",
       "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "BloodesiumSword",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_sword",
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "BasicOverlay",
+      "type": "overlay",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basic_overlay"
+    },
+    {
+      "name": "ConditionHealth0",
+      "type": "procedure",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_health_0",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConditionHealth1",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_health_1",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConditionHealth2",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_health_2",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConditionHealth3",
+      "type": "procedure",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_health_3",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConditionHealth4",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_health_4",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConditionHealth5",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_health_5",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConditionHealth6",
+      "type": "procedure",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_health_6",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConditionHealth7",
+      "type": "procedure",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_health_7",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConditionHealth8",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_health_8",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConditionHealth9",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_health_9",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConditionHealth10",
+      "type": "procedure",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_health_10",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PlayerHealthUpdate",
+      "type": "procedure",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "player_health_update",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DeleteDefaultOverlay",
+      "type": "overlay",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "delete_default_overlay"
+    },
+    {
+      "name": "BloodesiumTableAlpha",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_table_alpha",
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "BloodesiumTableBeta",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_table_beta",
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "BloodesiumTableCharlie",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_table_charlie",
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "BloodesiumTableDelta",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_table_delta",
+      "path": "~/Bloodesium/Station"
     }
   ],
   "variable_elements": [
@@ -336,6 +619,12 @@
       "type": "number",
       "scope": "player_persistent",
       "value": "0"
+    },
+    {
+      "name": "PlayerHealth",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
     }
   ],
   "sound_elements": [],
@@ -344,15 +633,20 @@
       "item.erinafaction.aura_diamond": "Aura Diamond",
       "block.erinafaction.bloodesium_ore": "Bloodesium Ore",
       "item.erinafaction.nyphractus_pickaxe": "Nyphractus Pickaxe",
-      "item.erinafaction.nyphractus_ingot": "Nyphractus Ingot",
       "block.erinafaction.niphractus_ore": "Niphractus Ore",
+      "item.erinafaction.nyphractus_ingot": "Nyphractus Ingot",
+      "block.erinafaction.bloodesium_table_charlie": "Bloodesium Table Charlie",
       "item.erinafaction.aura_shard": "Aura Shard",
+      "item.erinafaction.bloodesium_sword": "Bloodesium Sword",
       "item.erinafaction.nyphractus_sword": "Nyphractus Sword",
       "block.erinafaction.bloodesium_station": "Bloodesium Station",
       "block.erinafaction.magic_table": "Magic Table",
+      "block.erinafaction.bloodesium_table_alpha": "Bloodesium Table Alpha",
+      "block.erinafaction.bloodesium_table_beta": "Bloodesium Table Beta",
       "item.erinafaction.bloodesium_ingot": "Bloodesium Ingot",
       "block.erinafaction.aura_ore": "Aura Ore",
       "item.erinafaction.nyphractus_axe": "Nyphractus Axe",
+      "block.erinafaction.bloodesium_table_delta": "Bloodesium Table Delta",
       "itemGroup.tabbloodesium_tab": "ErinaFaction | §4Bloodesium",
       "itemGroup.tabnyphractus_tab": "ErinaFaction | §5Nyphractus"
     }

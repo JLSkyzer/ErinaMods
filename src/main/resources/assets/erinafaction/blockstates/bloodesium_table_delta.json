@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "erinafaction:block/bloodesium_table_delta"
+    },
+    "facing=east": {
+      "model": "erinafaction:block/bloodesium_table_delta",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "erinafaction:block/bloodesium_table_delta",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "erinafaction:block/bloodesium_table_delta",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "erinafaction:custom/bloodesium_station_table_alpha",
+  "textures": {
+    "all": "erinafaction:blocks/blood_table_facing",
+    "particle": "erinafaction:blocks/blood_table_facing",
+    "0": "erinafaction:blocks/blood_table_facing",
+    "1": "erinafaction:blocks/blood_table_top",
+    "2": "erinafaction:blocks/bloodesiumstation_bottom",
+    "5": "erinafaction:blocks/alpha",
+    "9": "erinafaction:blocks/blanc"
+  }
+}

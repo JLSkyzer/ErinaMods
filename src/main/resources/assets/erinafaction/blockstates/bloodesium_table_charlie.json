@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "erinafaction:block/bloodesium_table_charlie"
+    },
+    "facing=east": {
+      "model": "erinafaction:block/bloodesium_table_charlie",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "erinafaction:block/bloodesium_table_charlie",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "erinafaction:block/bloodesium_table_charlie",
+      "y": 270
+    }
+  }
+}
