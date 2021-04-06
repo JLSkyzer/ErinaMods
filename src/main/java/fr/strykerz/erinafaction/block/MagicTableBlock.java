@@ -76,7 +76,7 @@ public class MagicTableBlock extends ErinafactionModElements.ModElement {
 	@ObjectHolder("erinafaction:magic_table")
 	public static final TileEntityType<CustomTileEntity> tileEntityType = null;
 	public MagicTableBlock(ErinafactionModElements instance) {
-		super(instance, 14);
+		super(instance, 6);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new TileEntityRegisterHandler());
 	}
 

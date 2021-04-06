@@ -16,7 +16,7 @@ public class BloodesiumIngotItem extends ErinafactionModElements.ModElement {
 	@ObjectHolder("erinafaction:bloodesium_ingot")
 	public static final Item block = null;
 	public BloodesiumIngotItem(ErinafactionModElements instance) {
-		super(instance, 26);
+		super(instance, 11);
 	}
 
 	@Override

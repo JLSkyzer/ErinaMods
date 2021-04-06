@@ -36,6 +36,9 @@ public class ErinafactionModVariables {
 	private void init(FMLCommonSetupEvent event) {
 		CapabilityManager.INSTANCE.register(PlayerVariables.class, new PlayerVariablesStorage(), PlayerVariables::new);
 	}
+	public static double spiritium_planet_x = 0;
+	public static double spiritium_planet_z = 0;
+	public static double spiritium_planet_y = 0.0;
 	@CapabilityInject(PlayerVariables.class)
 	public static Capability<PlayerVariables> PLAYER_VARIABLES_CAPABILITY = null;
 	@SubscribeEvent

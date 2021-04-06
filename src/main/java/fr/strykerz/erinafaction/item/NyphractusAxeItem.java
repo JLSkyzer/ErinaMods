@@ -17,7 +17,7 @@ public class NyphractusAxeItem extends ErinafactionModElements.ModElement {
 	@ObjectHolder("erinafaction:nyphractus_axe")
 	public static final Item block = null;
 	public NyphractusAxeItem(ErinafactionModElements instance) {
-		super(instance, 21);
+		super(instance, 2);
 	}
 
 	@Override

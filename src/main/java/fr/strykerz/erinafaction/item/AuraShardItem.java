@@ -16,7 +16,7 @@ public class AuraShardItem extends ErinafactionModElements.ModElement {
 	@ObjectHolder("erinafaction:aura_shard")
 	public static final Item block = null;
 	public AuraShardItem(ErinafactionModElements instance) {
-		super(instance, 11);
+		super(instance, 8);
 	}
 
 	@Override

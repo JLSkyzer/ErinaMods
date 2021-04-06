@@ -4,7 +4,7 @@
     {
       "name": "NiphractusOre",
       "type": "block",
-      "sortid": 1,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -14,7 +14,7 @@
     {
       "name": "NyphractusTab",
       "type": "tab",
-      "sortid": 2,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -24,7 +24,7 @@
     {
       "name": "NyphractusIngot",
       "type": "item",
-      "sortid": 3,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -34,7 +34,7 @@
     {
       "name": "SmeltNyphractusOre",
       "type": "recipe",
-      "sortid": 4,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -44,7 +44,7 @@
     {
       "name": "NyphractusSword",
       "type": "tool",
-      "sortid": 5,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -54,7 +54,7 @@
     {
       "name": "CraftNyphractusSword",
       "type": "recipe",
-      "sortid": 6,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -64,7 +64,7 @@
     {
       "name": "NyphractusPickaxe",
       "type": "tool",
-      "sortid": 7,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -74,7 +74,7 @@
     {
       "name": "CraftNyphractusPickaxe",
       "type": "recipe",
-      "sortid": 8,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -84,7 +84,7 @@
     {
       "name": "AuraOre",
       "type": "block",
-      "sortid": 10,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -94,7 +94,7 @@
     {
       "name": "AuraShard",
       "type": "item",
-      "sortid": 11,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -104,7 +104,7 @@
     {
       "name": "AuraDiamond",
       "type": "item",
-      "sortid": 12,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -114,7 +114,7 @@
     {
       "name": "CraftAuraDiamond",
       "type": "recipe",
-      "sortid": 13,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -124,7 +124,7 @@
     {
       "name": "MagicTable",
       "type": "block",
-      "sortid": 14,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -134,7 +134,7 @@
     {
       "name": "GuiMagicTable",
       "type": "gui",
-      "sortid": 15,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -144,7 +144,7 @@
     {
       "name": "UpgradeLvl",
       "type": "procedure",
-      "sortid": 16,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -162,7 +162,7 @@
     {
       "name": "Lvl",
       "type": "command",
-      "sortid": 17,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -172,7 +172,7 @@
     {
       "name": "LvlProcedure",
       "type": "procedure",
-      "sortid": 18,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -190,7 +190,7 @@
     {
       "name": "ErinaLvl",
       "type": "command",
-      "sortid": 19,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -200,7 +200,7 @@
     {
       "name": "ErinaLvlProcedure",
       "type": "procedure",
-      "sortid": 20,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -222,7 +222,7 @@
     {
       "name": "NyphractusAxe",
       "type": "tool",
-      "sortid": 21,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -232,7 +232,7 @@
     {
       "name": "CraftNyphractusAxe",
       "type": "recipe",
-      "sortid": 22,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -242,7 +242,7 @@
     {
       "name": "OnSmelt",
       "type": "procedure",
-      "sortid": 23,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -264,7 +264,7 @@
     {
       "name": "OnCraft",
       "type": "procedure",
-      "sortid": 24,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -286,7 +286,7 @@
     {
       "name": "BloodesiumOre",
       "type": "block",
-      "sortid": 25,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -296,7 +296,7 @@
     {
       "name": "BloodesiumIngot",
       "type": "item",
-      "sortid": 26,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -306,7 +306,7 @@
     {
       "name": "BloodesiumTab",
       "type": "tab",
-      "sortid": 27,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -316,7 +316,7 @@
     {
       "name": "BloodesiumStation",
       "type": "block",
-      "sortid": 28,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -326,7 +326,7 @@
     {
       "name": "BloodesiumSword",
       "type": "tool",
-      "sortid": 29,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -334,18 +334,9 @@
       "path": "~/Bloodesium"
     },
     {
-      "name": "BasicOverlay",
-      "type": "overlay",
-      "sortid": 30,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "basic_overlay"
-    },
-    {
       "name": "ConditionHealth0",
       "type": "procedure",
-      "sortid": 31,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -363,7 +354,7 @@
     {
       "name": "ConditionHealth1",
       "type": "procedure",
-      "sortid": 32,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -381,7 +372,7 @@
     {
       "name": "ConditionHealth2",
       "type": "procedure",
-      "sortid": 33,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -399,7 +390,7 @@
     {
       "name": "ConditionHealth3",
       "type": "procedure",
-      "sortid": 34,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -417,7 +408,7 @@
     {
       "name": "ConditionHealth4",
       "type": "procedure",
-      "sortid": 35,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -435,7 +426,7 @@
     {
       "name": "ConditionHealth5",
       "type": "procedure",
-      "sortid": 36,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -453,7 +444,7 @@
     {
       "name": "ConditionHealth6",
       "type": "procedure",
-      "sortid": 37,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -471,7 +462,7 @@
     {
       "name": "ConditionHealth7",
       "type": "procedure",
-      "sortid": 38,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -489,7 +480,7 @@
     {
       "name": "ConditionHealth8",
       "type": "procedure",
-      "sortid": 39,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -507,7 +498,7 @@
     {
       "name": "ConditionHealth9",
       "type": "procedure",
-      "sortid": 40,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -525,7 +516,7 @@
     {
       "name": "ConditionHealth10",
       "type": "procedure",
-      "sortid": 41,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -543,7 +534,7 @@
     {
       "name": "PlayerHealthUpdate",
       "type": "procedure",
-      "sortid": 42,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -558,18 +549,9 @@
       }
     },
     {
-      "name": "DeleteDefaultOverlay",
-      "type": "overlay",
-      "sortid": 43,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "delete_default_overlay"
-    },
-    {
       "name": "BloodesiumTableAlpha",
       "type": "block",
-      "sortid": 44,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -579,7 +561,7 @@
     {
       "name": "BloodesiumTableBeta",
       "type": "block",
-      "sortid": 45,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -589,7 +571,7 @@
     {
       "name": "BloodesiumTableCharlie",
       "type": "block",
-      "sortid": 46,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -599,11 +581,1258 @@
     {
       "name": "BloodesiumTableDelta",
       "type": "block",
-      "sortid": 47,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "bloodesium_table_delta",
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "BloodesiumDirt",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_dirt",
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "BloodesiumGrass",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_grass",
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "BloodesiumWood",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_wood",
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "BloodesiumLeaves",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_leaves",
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "Bloodesium",
+      "type": "fluid",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium",
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "BloodesiumBiome",
+      "type": "biome",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_biome",
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "BloodesiumFlower",
+      "type": "plant",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_flower",
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "GuiBloodesiumStation",
+      "type": "gui",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_bloodesium_station",
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "OnMine",
+      "type": "procedure",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "on_mine",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Lvl System"
+    },
+    {
+      "name": "BloodesiumArmor",
+      "type": "armor",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Bloodesium"
+    },
+    {
+      "name": "DeletBlock",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "delet_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "GuiBloodesiumTableAlpha",
+      "type": "gui",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_bloodesium_table_alpha",
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "GuiBloodesiumTableBeta",
+      "type": "gui",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_bloodesium_table_beta",
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "GuiBloodesiumTableCharlie",
+      "type": "gui",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_bloodesium_table_charlie",
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "GuiBloodesiumTableDelta",
+      "type": "gui",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_bloodesium_table_delta",
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "BlockAlpha",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_alpha"
+    },
+    {
+      "name": "BlockBeta",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_beta"
+    },
+    {
+      "name": "BlockCharlie",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_charlie"
+    },
+    {
+      "name": "BlockDelta",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_delta"
+    },
+    {
+      "name": "BloodesiumStationDeletBlocks",
+      "type": "procedure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_station_delet_blocks",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "BloodesiumStationUpdateTick",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_station_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BtnChargeFusion",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "btn_charge_fusion",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Bloodesium/Station"
+    },
+    {
+      "name": "MobCapturer",
+      "type": "item",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mob_capturer",
+      "path": "~/Misc"
+    },
+    {
+      "name": "MiscTab",
+      "type": "tab",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "misc_tab",
+      "path": "~/Misc"
+    },
+    {
+      "name": "MobCapturerLivingEntityIsHitWithItem",
+      "type": "procedure",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mob_capturer_living_entity_is_hit_with_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MobCapturerItemInInventoryTick",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mob_capturer_item_in_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SpiritiumDirt",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiritium_dirt",
+      "path": "~/spiritium"
+    },
+    {
+      "name": "SpiritiumTab",
+      "type": "tab",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiritium_tab",
+      "path": "~/spiritium"
+    },
+    {
+      "name": "SpiritiumGrass",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiritium_grass",
+      "path": "~/spiritium"
+    },
+    {
+      "name": "SpiritiumPlants",
+      "type": "plant",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiritium_plants",
+      "path": "~/spiritium"
+    },
+    {
+      "name": "SpiritiumCobblestone",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiritium_cobblestone",
+      "path": "~/spiritium"
+    },
+    {
+      "name": "SpiritiumStone",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiritium_stone",
+      "path": "~/spiritium"
+    },
+    {
+      "name": "SpiritiumBiome",
+      "type": "biome",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiritium_biome",
+      "path": "~/spiritium"
+    },
+    {
+      "name": "SpiritiumPlanet",
+      "type": "dimension",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiritium_planet",
+      "metadata": {
+        "ep": false
+      },
+      "path": "~/spiritium"
+    },
+    {
+      "name": "SpiritiumPortal",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiritium_portal",
+      "path": "~/spiritium"
+    },
+    {
+      "name": "SpiritiumPortalOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiritium_portal_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ReturnworldCommandExecuted",
+      "type": "procedure",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "returnworld_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Returnworld",
+      "type": "command",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "returnworld",
+      "path": "~/Misc"
+    },
+    {
+      "name": "SetSpawnPoint",
+      "type": "procedure",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "set_spawn_point",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/spiritium"
+    },
+    {
+      "name": "SpiritiumPlanetSetSpawn",
+      "type": "command",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiritium_planet_set_spawn",
+      "path": "~/spiritium"
+    },
+    {
+      "name": "Tablealphacondition0",
+      "type": "procedure",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tablealphacondition_0",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Bloodesium/Station/BloodesiumTableAlpha"
+    },
+    {
+      "name": "TableAlphaCondition1",
+      "type": "procedure",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_alpha_condition_1",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TableAlphaCondition2",
+      "type": "procedure",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_alpha_condition_2",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TableAlphaCondition3",
+      "type": "procedure",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_alpha_condition_3",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TableAlphaCondition4",
+      "type": "procedure",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_alpha_condition_4",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TableAlphaCondition5",
+      "type": "procedure",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_alpha_condition_5",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TableAlphaCondition6",
+      "type": "procedure",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_alpha_condition_6",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TableAlphaCondition7",
+      "type": "procedure",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_alpha_condition_7",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TableAlphaCondition8",
+      "type": "procedure",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_alpha_condition_8",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TableAlphaCondition9",
+      "type": "procedure",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_alpha_condition_9",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TableAlphaCondition10",
+      "type": "procedure",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_alpha_condition_10",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BloodesiumTableAlphaUpdateTick",
+      "type": "procedure",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_table_alpha_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FireAura",
+      "type": "enchantment",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_aura",
+      "path": "~/Misc"
+    },
+    {
+      "name": "AlphaFusionBtn",
+      "type": "procedure",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alpha_fusion_btn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Bloodesium/Station/BloodesiumTableAlpha"
+    },
+    {
+      "name": "MagistralBook",
+      "type": "item",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magistral_book",
+      "path": "~/Misc"
+    },
+    {
+      "name": "MagistralBookUpdateTick",
+      "type": "procedure",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magistral_book_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Misc"
+    },
+    {
+      "name": "EnchantBtn",
+      "type": "procedure",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enchant_btn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Bloodesium/Station/BetaTable"
+    },
+    {
+      "name": "WhenPlayerAreAttackedWithFireAura",
+      "type": "procedure",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "when_player_are_attacked_with_fire_aura",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Misc"
+    },
+    {
+      "name": "WikiBooks",
+      "type": "item",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wiki_books",
+      "path": "~/Misc/wiki"
+    },
+    {
+      "name": "GuiWikiMainPage",
+      "type": "gui",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_wiki_main_page",
+      "path": "~/Misc/wiki"
+    },
+    {
+      "name": "GuiWikiBloodesiumStation",
+      "type": "gui",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_wiki_bloodesium_station",
+      "path": "~/Misc/wiki"
+    },
+    {
+      "name": "BloodesiumStationBtn",
+      "type": "procedure",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloodesium_station_btn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Misc/wiki"
+    },
+    {
+      "name": "WikiBloodesiumArmor",
+      "type": "gui",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wiki_bloodesium_armor",
+      "path": "~/Misc/wiki/Bloodesium Station"
+    },
+    {
+      "name": "OpenWikiForBloodesiumArmor",
+      "type": "procedure",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "open_wiki_for_bloodesium_armor",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Misc/wiki/Bloodesium Station"
+    },
+    {
+      "name": "Retour",
+      "type": "procedure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "retour",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Misc/wiki/Bloodesium Station"
+    },
+    {
+      "name": "RetourPageAcceuil",
+      "type": "procedure",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "retour_page_acceuil",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Misc/wiki"
+    },
+    {
+      "name": "WikiBooksRightClickedInAir",
+      "type": "procedure",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wiki_books_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CraftBloodesiumStation",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_bloodesium_station",
       "path": "~/Bloodesium/Station"
     }
   ],
@@ -625,30 +1854,78 @@
       "type": "number",
       "scope": "player_persistent",
       "value": "0"
+    },
+    {
+      "name": "spiritium_planet_x",
+      "type": "number",
+      "scope": "global",
+      "value": "0"
+    },
+    {
+      "name": "spiritium_planet_z",
+      "type": "number",
+      "scope": "global",
+      "value": "0"
+    },
+    {
+      "name": "spiritium_planet_y",
+      "type": "number",
+      "scope": "global",
+      "value": "0.0"
     }
   ],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.erinafaction.bloodesium_armor_leggings": "Bloodesium Armor Leggings",
+      "block.erinafaction.bloodesium_leaves": "Bloodesium Leaves",
       "item.erinafaction.aura_diamond": "Aura Diamond",
       "block.erinafaction.bloodesium_ore": "Bloodesium Ore",
-      "item.erinafaction.nyphractus_pickaxe": "Nyphractus Pickaxe",
-      "block.erinafaction.niphractus_ore": "Niphractus Ore",
-      "item.erinafaction.nyphractus_ingot": "Nyphractus Ingot",
-      "block.erinafaction.bloodesium_table_charlie": "Bloodesium Table Charlie",
-      "item.erinafaction.aura_shard": "Aura Shard",
-      "item.erinafaction.bloodesium_sword": "Bloodesium Sword",
+      "block.erinafaction.bloodesium_dirt": "Bloodesium Dirt",
+      "block.erinafaction.spiritium_portal": "Spiritium Portal",
+      "block.erinafaction.block_delta": "Block Delta",
+      "item.erinafaction.magistral_book": "Magistral Book",
+      "item.erinafaction.wiki_books": "Erina\u0027s Wiki",
+      "fluid.bloodesium": "Bloodesium",
+      "item.erinafaction.bloodesium_armor_boots": "Bloodesium Armor Boots",
+      "itemGroup.tabmisc_tab": "ErinaFaction | §e§lMisc",
+      "block.erinafaction.spiritium_grass": "Spiritium Grass",
+      "item.erinafaction.spiritium_planet": "Spiritium Planet Portal Igniter",
+      "biome.erinafaction.spiritium_biome": "Spiritium Biome",
+      "block.erinafaction.block_charlie": "Block Charlie",
       "item.erinafaction.nyphractus_sword": "Nyphractus Sword",
-      "block.erinafaction.bloodesium_station": "Bloodesium Station",
       "block.erinafaction.magic_table": "Magic Table",
       "block.erinafaction.bloodesium_table_alpha": "Bloodesium Table Alpha",
+      "block.erinafaction.spiritium_cobblestone": "Spiritium Cobblestone",
+      "block.erinafaction.spiritium_stone": "Spiritium Stone",
       "block.erinafaction.bloodesium_table_beta": "Bloodesium Table Beta",
-      "item.erinafaction.bloodesium_ingot": "Bloodesium Ingot",
       "block.erinafaction.aura_ore": "Aura Ore",
       "item.erinafaction.nyphractus_axe": "Nyphractus Axe",
       "block.erinafaction.bloodesium_table_delta": "Bloodesium Table Delta",
+      "block.erinafaction.spiritium_dirt": "Spiritium Dirt",
+      "item.erinafaction.bloodesium_armor_chestplate": "Bloodesium Armor Body",
+      "itemGroup.tabnyphractus_tab": "ErinaFaction | §5Nyphractus",
+      "block.erinafaction.bloodesium_grass": "Bloodesium Grass",
+      "block.erinafaction.block_alpha": "Block Alpha",
+      "item.erinafaction.nyphractus_pickaxe": "Nyphractus Pickaxe",
+      "block.erinafaction.spiritium_plants": "Spiritium Plants",
+      "block.erinafaction.niphractus_ore": "Niphractus Ore",
+      "item.erinafaction.bloodesium_bucket": "Bloodesium Bucket",
+      "item.erinafaction.aura_shard": "Aura Shard",
+      "item.erinafaction.bloodesium_armor_helmet": "Bloodesium Armor Helmet",
+      "item.erinafaction.bloodesium_sword": "Bloodesium Sword",
+      "block.erinafaction.bloodesium_station": "Bloodesium Station",
+      "biome.erinafaction.bloodesium_biome": "Bloodesium Biome",
+      "item.erinafaction.bloodesium_ingot": "Bloodesium Ingot",
+      "enchantment.erinafaction.fire_aura": "Fire Aura",
+      "item.erinafaction.nyphractus_ingot": "Nyphractus Ingot",
+      "block.erinafaction.bloodesium_table_charlie": "Bloodesium Table Charlie",
+      "block.erinafaction.block_beta": "Block Beta",
+      "block.erinafaction.bloodesium_flower": "Bloodesium Flower",
+      "item.erinafaction.mob_capturer": "Mob Capturer",
       "itemGroup.tabbloodesium_tab": "ErinaFaction | §4Bloodesium",
-      "itemGroup.tabnyphractus_tab": "ErinaFaction | §5Nyphractus"
+      "itemGroup.tabspiritium_tab": "Erina Faction | §b§lSpiritium",
+      "block.erinafaction.bloodesium_wood": "Bloodesium Wood"
     }
   },
   "foldersRoot": {
@@ -667,9 +1944,36 @@
         "children": [
           {
             "name": "Station",
-            "children": []
+            "children": [
+              {
+                "name": "BloodesiumTableAlpha",
+                "children": []
+              },
+              {
+                "name": "BetaTable",
+                "children": []
+              }
+            ]
           }
         ]
+      },
+      {
+        "name": "Misc",
+        "children": [
+          {
+            "name": "wiki",
+            "children": [
+              {
+                "name": "Bloodesium Station",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "spiritium",
+        "children": []
       }
     ]
   },

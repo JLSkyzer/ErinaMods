@@ -13,7 +13,7 @@ import fr.strykerz.erinafaction.ErinafactionMod;
 @ErinafactionModElements.ModElement.Tag
 public class LvlProcedureProcedure extends ErinafactionModElements.ModElement {
 	public LvlProcedureProcedure(ErinafactionModElements instance) {
-		super(instance, 18);
+		super(instance, 33);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

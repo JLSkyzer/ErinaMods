@@ -14,7 +14,7 @@ import fr.strykerz.erinafaction.ErinafactionMod;
 @ErinafactionModElements.ModElement.Tag
 public class ErinaLvlProcedureProcedure extends ErinafactionModElements.ModElement {
 	public ErinaLvlProcedureProcedure(ErinafactionModElements instance) {
-		super(instance, 20);
+		super(instance, 35);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

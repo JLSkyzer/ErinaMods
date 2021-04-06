@@ -22,7 +22,7 @@ import fr.strykerz.erinafaction.ErinafactionMod;
 @ErinafactionModElements.ModElement.Tag
 public class OnCraftProcedure extends ErinafactionModElements.ModElement {
 	public OnCraftProcedure(ErinafactionModElements instance) {
-		super(instance, 24);
+		super(instance, 38);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

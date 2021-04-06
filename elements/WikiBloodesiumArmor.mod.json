@@ -1,0 +1,88 @@
+{
+  "_fv": 17,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 280,
+    "height": 170,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "bloodesium_station.png",
+          "use1Xscale": false,
+          "name": "bloodesium_station.png",
+          "x": 72,
+          "y": 35
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bloodesium_station_craft_bloodesium_armor.png",
+          "use1Xscale": true,
+          "name": "bloodesium_station_craft_bloodesium_armor.png",
+          "x": 90,
+          "y": 56
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "c'est le même model pour",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "c'est le même model pour",
+          "x": 225,
+          "y": 66
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "les 3 autre pièces",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "les 3 autre pièces",
+          "x": 225,
+          "y": 77
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "d'armures",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "d'armures",
+          "x": 225,
+          "y": 87
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Retour",
+          "onClick": {
+            "name": "Retour"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Retour",
+          "x": 234,
+          "y": 119
+        }
+      }
+    ]
+  }
+}

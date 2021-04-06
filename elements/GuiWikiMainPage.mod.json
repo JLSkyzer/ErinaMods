@@ -1,0 +1,39 @@
+{
+  "_fv": 17,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 280,
+    "height": 170,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "main_page.png",
+          "use1Xscale": false,
+          "name": "main_page.png",
+          "x": 72,
+          "y": 34
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Bloodesium Station",
+          "onClick": {
+            "name": "BloodesiumStationBtn"
+          },
+          "width": 90,
+          "height": 20,
+          "name": "Bloodesium Station",
+          "x": 90,
+          "y": 54
+        }
+      }
+    ]
+  }
+}

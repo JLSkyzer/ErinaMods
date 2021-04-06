@@ -16,7 +16,7 @@ public class NyphractusPickaxeItem extends ErinafactionModElements.ModElement {
 	@ObjectHolder("erinafaction:nyphractus_pickaxe")
 	public static final Item block = null;
 	public NyphractusPickaxeItem(ErinafactionModElements instance) {
-		super(instance, 7);
+		super(instance, 3);
 	}
 
 	@Override

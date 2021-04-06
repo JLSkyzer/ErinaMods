@@ -1,0 +1,11 @@
+{
+  "_fv": 17,
+  "_type": "command",
+  "definition": {
+    "commandName": "returnworld",
+    "permissionLevel": "No requirement",
+    "onCommandExecuted": {
+      "name": "ReturnworldCommandExecuted"
+    }
+  }
+}

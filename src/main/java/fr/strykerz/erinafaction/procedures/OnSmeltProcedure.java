@@ -24,7 +24,7 @@ import fr.strykerz.erinafaction.ErinafactionMod;
 @ErinafactionModElements.ModElement.Tag
 public class OnSmeltProcedure extends ErinafactionModElements.ModElement {
 	public OnSmeltProcedure(ErinafactionModElements instance) {
-		super(instance, 23);
+		super(instance, 37);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "erinafaction:blocks/spiritium_dirt",
+    "up": "erinafaction:blocks/spiritium_dirt",
+    "north": "erinafaction:blocks/spiritium_dirt",
+    "east": "erinafaction:blocks/spiritium_dirt",
+    "south": "erinafaction:blocks/spiritium_dirt",
+    "west": "erinafaction:blocks/spiritium_dirt",
+    "particle": "erinafaction:blocks/spiritium_dirt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "erinafaction:blocks/charlie",
+    "up": "erinafaction:blocks/charlie",
+    "north": "erinafaction:blocks/charlie",
+    "east": "erinafaction:blocks/charlie",
+    "south": "erinafaction:blocks/charlie",
+    "west": "erinafaction:blocks/charlie",
+    "particle": "erinafaction:blocks/charlie"
+  }
+}

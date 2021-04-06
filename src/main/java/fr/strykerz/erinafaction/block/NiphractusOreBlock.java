@@ -51,7 +51,7 @@ public class NiphractusOreBlock extends ErinafactionModElements.ModElement {
 	@ObjectHolder("erinafaction:niphractus_ore")
 	public static final Block block = null;
 	public NiphractusOreBlock(ErinafactionModElements instance) {
-		super(instance, 1);
+		super(instance, 4);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new BlockColorRegisterHandler());

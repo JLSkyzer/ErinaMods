@@ -50,7 +50,7 @@ public class AuraOreBlock extends ErinafactionModElements.ModElement {
 	@ObjectHolder("erinafaction:aura_ore")
 	public static final Block block = null;
 	public AuraOreBlock(ErinafactionModElements instance) {
-		super(instance, 10);
+		super(instance, 5);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

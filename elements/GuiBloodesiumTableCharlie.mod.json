@@ -1,0 +1,29 @@
+{
+  "_fv": 17,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 236,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 37,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Destroy Blocks",
+          "onClick": {
+            "name": "DeletBlock"
+          },
+          "width": 95,
+          "height": 20,
+          "name": "Destroy Blocks",
+          "x": 14,
+          "y": 9
+        }
+      }
+    ]
+  }
+}

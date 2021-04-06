@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "erinafaction:blocks/bloodesium_wood_top",
+    "up": "erinafaction:blocks/bloodesium_wood_top",
+    "north": "erinafaction:blocks/bloodesium_wood_facing",
+    "east": "erinafaction:blocks/bloodesium_wood_facing",
+    "south": "erinafaction:blocks/bloodesium_wood_facing",
+    "west": "erinafaction:blocks/bloodesium_wood_facing",
+    "particle": "erinafaction:blocks/bloodesium_wood_top"
+  }
+}

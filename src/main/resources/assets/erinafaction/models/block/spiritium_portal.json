@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "erinafaction:blocks/portal_facing",
+    "up": "erinafaction:blocks/spiritium_portal_top",
+    "north": "erinafaction:blocks/portal_facing",
+    "east": "erinafaction:blocks/portal_facing",
+    "south": "erinafaction:blocks/portal_facing",
+    "west": "erinafaction:blocks/portal_facing",
+    "particle": "erinafaction:blocks/portal_facing"
+  }
+}

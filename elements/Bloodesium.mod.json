@@ -1,0 +1,27 @@
+{
+  "_fv": 17,
+  "_type": "fluid",
+  "definition": {
+    "name": "Bloodesium",
+    "textureStill": "bloodesium_water_still",
+    "textureFlowing": "bloodesium_water_flow",
+    "luminosity": 3,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:BloodesiumTab"
+    },
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:BloodesiumBiome"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "_fv": 17,
+  "_type": "biome",
+  "definition": {
+    "name": "Bloodesium Biome",
+    "groundBlock": {
+      "value": "CUSTOM:BloodesiumGrass"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:BloodesiumDirt"
+    },
+    "airColor": {
+      "value": -10354688,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -12643308,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -12643308,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -9747902,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -6080199,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "PLAINS",
+    "parent": {
+      "value": "plains"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 1.0,
+    "baseHeight": 0.19999999999999998,
+    "heightVariation": 0.6,
+    "biomeType": "WARM",
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeDictionaryTypes": [
+      "PLAINS",
+      "FOREST",
+      "MOUNTAIN",
+      "MESA",
+      "COLD",
+      "HILLS"
+    ],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 5,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 5,
+    "maxWaterDepth": 1,
+    "treeStem": {
+      "value": "CUSTOM:BloodesiumWood"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:BloodesiumLeaves"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": true,
+    "spawnPillagerOutpost": false,
+    "villageType": "plains",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": true,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores"
+    ],
+    "spawnEntries": []
+  }
+}

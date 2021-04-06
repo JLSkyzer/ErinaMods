@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "erinafaction:blocks/bloodesium_dirt",
+    "up": "erinafaction:blocks/bloodesium_grass_topo",
+    "north": "erinafaction:blocks/bloodesium_grass_facing",
+    "east": "erinafaction:blocks/bloodesium_grass_facing",
+    "south": "erinafaction:blocks/bloodesium_grass_facing",
+    "west": "erinafaction:blocks/bloodesium_grass_facing",
+    "particle": "erinafaction:blocks/bloodesium_dirt"
+  }
+}

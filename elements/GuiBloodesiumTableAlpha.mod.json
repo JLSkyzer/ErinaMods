@@ -1,0 +1,318 @@
+{
+  "_fv": 17,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 235,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 37,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Destroy Blocks",
+          "onClick": {
+            "name": "DeletBlock"
+          },
+          "width": 95,
+          "height": 20,
+          "name": "Destroy Blocks",
+          "x": 26,
+          "y": 7
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "0_-_10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "Tablealphacondition0"
+          },
+          "name": "0_-_10.png",
+          "x": 130,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "1_-_10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "TableAlphaCondition1"
+          },
+          "name": "1_-_10.png",
+          "x": 130,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "2_-_10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "TableAlphaCondition2"
+          },
+          "name": "2_-_10.png",
+          "x": 130,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "3_-_10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "TableAlphaCondition3"
+          },
+          "name": "3_-_10.png",
+          "x": 130,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "4_-_10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "TableAlphaCondition4"
+          },
+          "name": "4_-_10.png",
+          "x": 130,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "5_-_10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "TableAlphaCondition5"
+          },
+          "name": "5_-_10.png",
+          "x": 130,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "6_-_10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "TableAlphaCondition6"
+          },
+          "name": "6_-_10.png",
+          "x": 130,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "7_-_10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "TableAlphaCondition7"
+          },
+          "name": "7_-_10.png",
+          "x": 130,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "8_-_10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "TableAlphaCondition8"
+          },
+          "name": "8_-_10.png",
+          "x": 130,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "9_-_10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "TableAlphaCondition9"
+          },
+          "name": "9_-_10.png",
+          "x": 130,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "10_-_10.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "TableAlphaCondition10"
+          },
+          "name": "10_-_10.png",
+          "x": 130,
+          "y": 44
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -3407872,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 130,
+          "y": 98
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -16711885,
+            "falpha": 0.0
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 204,
+          "y": 80
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -3381760,
+            "falpha": 0.0
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 186,
+          "y": 62
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -3381760,
+            "falpha": 0.0
+          },
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #3",
+          "x": 222,
+          "y": 62
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -3407872,
+            "falpha": 0.0
+          },
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #4",
+          "x": 168,
+          "y": 44
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -3407872,
+            "falpha": 0.0
+          },
+          "id": 5,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #5",
+          "x": 240,
+          "y": 44
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 6,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #6",
+          "x": 204,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<BNBT:text:alert>",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "<BNBT:text:alert>",
+          "x": 130,
+          "y": 8
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Fusion",
+          "onClick": {
+            "name": "AlphaFusionBtn"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Fusion",
+          "x": 236,
+          "y": 131
+        }
+      }
+    ]
+  }
+}

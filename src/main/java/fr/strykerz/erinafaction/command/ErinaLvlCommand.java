@@ -25,7 +25,7 @@ import com.mojang.brigadier.arguments.StringArgumentType;
 @ErinafactionModElements.ModElement.Tag
 public class ErinaLvlCommand extends ErinafactionModElements.ModElement {
 	public ErinaLvlCommand(ErinafactionModElements instance) {
-		super(instance, 19);
+		super(instance, 34);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

@@ -18,7 +18,7 @@ import fr.strykerz.erinafaction.ErinafactionMod;
 @ErinafactionModElements.ModElement.Tag
 public class PlayerHealthUpdateProcedure extends ErinafactionModElements.ModElement {
 	public PlayerHealthUpdateProcedure(ErinafactionModElements instance) {
-		super(instance, 42);
+		super(instance, 51);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

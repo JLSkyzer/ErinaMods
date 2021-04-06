@@ -1,0 +1,42 @@
+{
+  "group": "erinafaction",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:obsidian"
+    },
+    "1": {
+      "item": "erinafaction:bloodesium_ingot"
+    },
+    "2": {
+      "item": "minecraft:obsidian"
+    },
+    "3": {
+      "item": "erinafaction:bloodesium_ingot"
+    },
+    "4": {
+      "item": "erinafaction:bloodesium_ingot"
+    },
+    "5": {
+      "item": "erinafaction:bloodesium_ingot"
+    },
+    "6": {
+      "item": "minecraft:obsidian"
+    },
+    "7": {
+      "item": "minecraft:lapis_block"
+    },
+    "8": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "erinafaction:bloodesium_station",
+    "count": 1
+  }
+}

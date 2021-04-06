@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "erinafaction:blocks/bloodesium_flower",
+    "particle": "erinafaction:blocks/bloodesium_leave"
+  }
+}

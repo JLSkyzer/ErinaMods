@@ -1,0 +1,93 @@
+{
+  "_fv": 17,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 280,
+    "height": 170,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "bloodesium_station.png",
+          "use1Xscale": false,
+          "name": "bloodesium_station.png",
+          "x": 72,
+          "y": 35
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bloodesiumarmor.png",
+          "use1Xscale": false,
+          "name": "bloodesiumarmor.png",
+          "x": 81,
+          "y": 53
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "|-|",
+          "onClick": {
+            "name": "OpenWikiForBloodesiumArmor"
+          },
+          "width": 27,
+          "height": 20,
+          "name": "|-|",
+          "x": 81,
+          "y": 84
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "barre.png",
+          "use1Xscale": true,
+          "name": "barre.png",
+          "x": 117,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "barre.png",
+          "use1Xscale": true,
+          "name": "barre.png",
+          "x": 117,
+          "y": 84
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "barre.png",
+          "use1Xscale": true,
+          "name": "barre.png",
+          "x": 117,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Retour",
+          "onClick": {
+            "name": "RetourPageAcceuil"
+          },
+          "width": 36,
+          "height": 20,
+          "name": "Retour",
+          "x": 306,
+          "y": 35
+        }
+      }
+    ]
+  }
+}

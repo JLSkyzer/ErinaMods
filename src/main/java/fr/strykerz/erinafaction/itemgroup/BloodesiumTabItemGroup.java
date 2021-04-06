@@ -13,7 +13,7 @@ import fr.strykerz.erinafaction.ErinafactionModElements;
 @ErinafactionModElements.ModElement.Tag
 public class BloodesiumTabItemGroup extends ErinafactionModElements.ModElement {
 	public BloodesiumTabItemGroup(ErinafactionModElements instance) {
-		super(instance, 27);
+		super(instance, 39);
 	}
 
 	@Override

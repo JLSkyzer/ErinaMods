@@ -16,7 +16,7 @@ public class NyphractusSwordItem extends ErinafactionModElements.ModElement {
 	@ObjectHolder("erinafaction:nyphractus_sword")
 	public static final Item block = null;
 	public NyphractusSwordItem(ErinafactionModElements instance) {
-		super(instance, 5);
+		super(instance, 1);
 	}
 
 	@Override

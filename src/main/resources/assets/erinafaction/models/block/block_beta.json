@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "erinafaction:blocks/beta",
+    "up": "erinafaction:blocks/beta",
+    "north": "erinafaction:blocks/beta",
+    "east": "erinafaction:blocks/beta",
+    "south": "erinafaction:blocks/beta",
+    "west": "erinafaction:blocks/beta",
+    "particle": "erinafaction:blocks/beta"
+  }
+}

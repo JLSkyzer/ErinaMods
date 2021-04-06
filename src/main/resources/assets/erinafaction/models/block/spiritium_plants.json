@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "erinafaction:blocks/spiritium_plants",
+    "particle": "erinafaction:blocks/spiritium_plants"
+  }
+}

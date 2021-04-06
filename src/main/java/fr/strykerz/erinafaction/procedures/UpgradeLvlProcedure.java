@@ -19,7 +19,7 @@ import fr.strykerz.erinafaction.ErinafactionMod;
 @ErinafactionModElements.ModElement.Tag
 public class UpgradeLvlProcedure extends ErinafactionModElements.ModElement {
 	public UpgradeLvlProcedure(ErinafactionModElements instance) {
-		super(instance, 16);
+		super(instance, 31);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

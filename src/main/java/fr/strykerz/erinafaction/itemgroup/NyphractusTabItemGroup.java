@@ -13,7 +13,7 @@ import fr.strykerz.erinafaction.ErinafactionModElements;
 @ErinafactionModElements.ModElement.Tag
 public class NyphractusTabItemGroup extends ErinafactionModElements.ModElement {
 	public NyphractusTabItemGroup(ErinafactionModElements instance) {
-		super(instance, 2);
+		super(instance, 25);
 	}
 
 	@Override

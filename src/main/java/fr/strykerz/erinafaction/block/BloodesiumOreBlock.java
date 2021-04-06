@@ -46,7 +46,7 @@ public class BloodesiumOreBlock extends ErinafactionModElements.ModElement {
 	@ObjectHolder("erinafaction:bloodesium_ore")
 	public static final Block block = null;
 	public BloodesiumOreBlock(ErinafactionModElements instance) {
-		super(instance, 25);
+		super(instance, 10);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

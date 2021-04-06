@@ -1,0 +1,11 @@
+{
+  "_fv": 17,
+  "_type": "command",
+  "definition": {
+    "commandName": "spiritium_planet_set_spawn",
+    "permissionLevel": "4",
+    "onCommandExecuted": {
+      "name": "SetSpawnPoint"
+    }
+  }
+}

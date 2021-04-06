@@ -11,7 +11,7 @@ import fr.strykerz.erinafaction.ErinafactionMod;
 @ErinafactionModElements.ModElement.Tag
 public class ConditionHealth7Procedure extends ErinafactionModElements.ModElement {
 	public ConditionHealth7Procedure(ErinafactionModElements instance) {
-		super(instance, 38);
+		super(instance, 47);
 	}
 
 	public static boolean executeProcedure(Map<String, Object> dependencies) {

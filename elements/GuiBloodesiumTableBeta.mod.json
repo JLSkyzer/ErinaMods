@@ -1,0 +1,117 @@
+{
+  "_fv": 17,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 236,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 37,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Destroy Blocks",
+          "onClick": {
+            "name": "DeletBlock"
+          },
+          "width": 95,
+          "height": 20,
+          "name": "Destroy Blocks",
+          "x": 17,
+          "y": 12
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -14810939,
+            "falpha": 0.0
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 150,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "§c§l+",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "§c§l+",
+          "x": 171,
+          "y": 47
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "color": {
+            "value": -13107109,
+            "falpha": 0.0
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 186,
+          "y": 44
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "color": {
+            "value": -6815744,
+            "falpha": 0.0
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 230,
+          "y": 44
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "§5§lEnchant",
+          "onClick": {
+            "name": "EnchantBtn"
+          },
+          "width": 80,
+          "height": 20,
+          "name": "§5§lEnchant",
+          "x": 163,
+          "y": 83
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "flecherouge.png",
+          "use1Xscale": true,
+          "name": "flecherouge.png",
+          "x": 207,
+          "y": 49
+        }
+      }
+    ]
+  }
+}

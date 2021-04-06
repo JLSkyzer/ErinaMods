@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "erinafaction:blocks/bloodesium_leave",
+    "up": "erinafaction:blocks/bloodesium_leave",
+    "north": "erinafaction:blocks/bloodesium_leave",
+    "east": "erinafaction:blocks/bloodesium_leave",
+    "south": "erinafaction:blocks/bloodesium_leave",
+    "west": "erinafaction:blocks/bloodesium_leave",
+    "particle": "erinafaction:blocks/bloodesium_leave"
+  }
+}

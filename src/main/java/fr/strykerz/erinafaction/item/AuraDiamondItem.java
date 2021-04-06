@@ -16,7 +16,7 @@ public class AuraDiamondItem extends ErinafactionModElements.ModElement {
 	@ObjectHolder("erinafaction:aura_diamond")
 	public static final Item block = null;
 	public AuraDiamondItem(ErinafactionModElements instance) {
-		super(instance, 12);
+		super(instance, 9);
 	}
 
 	@Override
